@@ -12,6 +12,8 @@
 		6EDFB0241CED6EE500D38B7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EDFB0221CED6EE500D38B7F /* Main.storyboard */; };
 		6EDFB0261CED6EE600D38B7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EDFB0251CED6EE600D38B7F /* Assets.xcassets */; };
 		6EDFB0291CED6EE600D38B7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EDFB0271CED6EE600D38B7F /* LaunchScreen.storyboard */; };
+		6EDFB0321CED6EF500D38B7F /* bulboff.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6EDFB0301CED6EF500D38B7F /* bulboff.jpg */; };
+		6EDFB0331CED6EF500D38B7F /* buldon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6EDFB0311CED6EF500D38B7F /* buldon.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		6EDFB0251CED6EE600D38B7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6EDFB0281CED6EE600D38B7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6EDFB02A1CED6EE600D38B7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6EDFB0301CED6EF500D38B7F /* bulboff.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bulboff.jpg; path = ../../../Downloads/bulboff.jpg; sourceTree = "<group>"; };
+		6EDFB0311CED6EF500D38B7F /* buldon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = buldon.jpg; path = ../../../Downloads/buldon.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		6EDFB01D1CED6EE500D38B7F /* LightOn */ = {
 			isa = PBXGroup;
 			children = (
+				6EDFB0301CED6EF500D38B7F /* bulboff.jpg */,
+				6EDFB0311CED6EF500D38B7F /* buldon.jpg */,
 				6EDFB01E1CED6EE500D38B7F /* AppDelegate.swift */,
 				6EDFB0201CED6EE500D38B7F /* ViewController.swift */,
 				6EDFB0221CED6EE500D38B7F /* Main.storyboard */,
@@ -124,6 +130,8 @@
 			files = (
 				6EDFB0291CED6EE600D38B7F /* LaunchScreen.storyboard in Resources */,
 				6EDFB0261CED6EE600D38B7F /* Assets.xcassets in Resources */,
+				6EDFB0331CED6EF500D38B7F /* buldon.jpg in Resources */,
+				6EDFB0321CED6EF500D38B7F /* bulboff.jpg in Resources */,
 				6EDFB0241CED6EE500D38B7F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
